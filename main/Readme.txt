@@ -4,7 +4,7 @@
 
 3. Extract force analysis like friction coefficient in Force_ana
 
-4. get effective stiffness in Bead.Disp
+4. get effective stiffness in Bead_Disp
 
 
 
