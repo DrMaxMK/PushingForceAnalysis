@@ -1,0 +1,2 @@
+The codebase to analyse the pushing forces in cell migration through soft hydrogel dumbbells.
+The relevant workflow is in main/. Additional code is in supplementary_and_historic/ but just there for the sake of completeness.
